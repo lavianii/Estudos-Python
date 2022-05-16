@@ -1,6 +1,6 @@
 import math
 c = '='
-co = float(input('Digite o calor do Cateto Oposto: '))
+co = float(input('Digite o valor do Cateto Oposto: '))
 print('A raiz quadra de {} é {}'.format(co, math.pow(co, 2)))
 ca = float(input('Digite o valor do Cateto Adjacente: '))
 print('A raiz quadra de {} é {}'.format(ca, math.pow(ca, 2)))
