@@ -8,7 +8,7 @@ ESCOLHA SUA JOGADA:
 
 '''))
 print('='*50)
-print('        ----------- JO-KEN-4PÔ !! --------')
+print('        ----------- JO - KEN - PÔ !! --------')
 print('='*50)
 jogadapc=['Pedra','Papel','Tesoura']
 sorteador = random.choice(jogadapc)
