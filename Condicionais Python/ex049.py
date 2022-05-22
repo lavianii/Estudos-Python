@@ -1,4 +1,4 @@
-tabuada = int(input('Digite qual tabuada deseja multipicar: '))
+tabuada = int(input('Digite qual tabuada deseja multiplicar: '))
 for t in range(0,11):
     print('{} X  {} = {}'.format(tabuada, t, tabuada*t))
 
